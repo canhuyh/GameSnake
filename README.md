@@ -36,7 +36,7 @@
 vào SourceCode và bảng ClassDiagram của mình hoặc phát triển theo ý tưởng độc đáo va táo bạo riêng của
 bản thân =)).
 
-Rắn đã di chuyển được, ăn mồi, tăng đốt và xử lý đụng tường.
+`Rắn đã di chuyển được, ăn mồi, tăng đốt và xử lý đụng tường`
 
 ## ===CÁM ƠN BẠN ĐÃ SỬ DỤNG CHƯƠNG TRÌNH===
 ###### Mọi thắc mắc xin liên hệ facebook: https://www.facebook.com/canh.thanh.750983
